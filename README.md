@@ -1,9 +1,8 @@
 # WarpingGAN
 The pytorch implementation of CVPR 2022 paper: "WarpingGAN: Warping Multiple Uniform Priors for Adversarial 3D Point Cloud Generation".
 <img width="1693" alt="postercvpr" src="https://user-images.githubusercontent.com/101309618/171564261-f9925b93-985f-4ddc-86cc-f6b8a9988330.png">
+Introduce Video https://youtu.be/3x0UckQHCDg
 
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3x0UckQHCDg/0.jpg)](https://www.youtube.com/watch?v=3x0UckQHCDg)
 
 ### Usage
 
