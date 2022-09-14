@@ -4,7 +4,7 @@ The pytorch implementation of CVPR 2022 paper: "WarpingGAN: Warping Multiple Uni
 
 Introduce Video https://youtu.be/3x0UckQHCDg
 
-The generated chair and airplane samples (for visualization or evaluation) are available here: https://drive.google.com/file/d/1YwxoyiWLJC4gxVgZ-ntijo9NQEC0MRlW/view. 
+The generated chair and airplane samples (for visualization or evaluation) are available here: [https://drive.google.com/file/d/1YwxoyiWLJC4gxVgZ-ntijo9NQEC0MRlW/view](https://drive.google.com/drive/folders/11QLbw35M_49VoUvYdi803R1T8CccpDF4?usp=sharing). 
 
 ### Usage
 
